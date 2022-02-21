@@ -10,7 +10,7 @@ import UIKit
 struct BeerInfo: Codable {
     let id: Int?
     let name, tagLine, description, brewersTip, imageURL: String?
-    let foodParing: [String]?
+    let foodPairing: [String]?
     
     var realTag: String {
         let tags = tagLine?.components(separatedBy: ". ")
@@ -27,6 +27,6 @@ struct BeerInfo: Codable {
         case tagLine = "tagline"
         case imageURL = "image_url"
         case brewersTip = "bresers_tips"
-        case foodParing = "food_paring"
+        case foodPairing = "food_pairing"
     }
 }
