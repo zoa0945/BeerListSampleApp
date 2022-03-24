@@ -14,3 +14,4 @@ SnapKit을 이용한 UI 구성 및 PunkAPI의 세계맥주 데이터 불러오�
 * URLSession
 
 ## Screenshots
+<img width="216" alt="스크린샷 2022-03-24 오후 7 23 20" src="https://user-images.githubusercontent.com/51810980/159895965-fa42dfd3-f83a-49bf-9160-11f18189fec0.png"><img width="216" alt="스크린샷 2022-03-24 오후 7 23 36" src="https://user-images.githubusercontent.com/51810980/159895989-ec8726ea-51f0-488b-8227-6013ed87c566.png"><img width="216" alt="스크린샷 2022-03-24 오후 7 23 25" src="https://user-images.githubusercontent.com/51810980/159895994-51ab8e05-deaf-486c-a770-c3de5ea3e743.png">
